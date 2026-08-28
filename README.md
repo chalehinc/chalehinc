@@ -1,8 +1,8 @@
 # Hi there, I'm MD Chahad Chalehin 👋
 
 ### 👨‍💻 About Me
--  I’m currently working on Competitive Programming
--  I’m currently learning Machine Learning, Data Structures & Algorithms
+- 🔭 I’m currently working on Competitive Programming
+- 🌱 I’m currently learning Machine Learning, Data Structures & Algorithms
 - 💬 Ask me about C++
 - 📫 How to reach me: chalehinc@gmail.com
 
@@ -16,18 +16,15 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
----
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chalehinc&theme=dark" alt="GitHub Streak" />
-</p>
-
-### 🧩 Competitive Programming
-<p align="center">
+### 🌐 Connect with Me
+<p align="left">
+  <a href="mailto:chalehinc@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
   <a href="https://codeforces.com/profile/MDChahad">
-    <img src="https://img.shields.io/badge/Codeforces-MDChahad-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 </p>
