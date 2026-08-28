@@ -1,8 +1,8 @@
 # Hi there, I'm MD Chahad Chalehin 👋
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on Competitive Programming
-- 🌱 I’m currently learning Machine Learning, Data Structures & Algorithms
+-  I’m currently working on Competitive Programming
+-  I’m currently learning Machine Learning, Data Structures & Algorithms
 - 💬 Ask me about C++
 - 📫 How to reach me: chalehinc@gmail.com
 
