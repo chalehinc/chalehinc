@@ -23,9 +23,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=chalehinc&show_icons=true&theme=radial" alt="Chahad's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chalehinc&layout=compact&theme=radial" alt="Top Languages" />
 </p>
----
 
 ### 🧩 Competitive Programming
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=MDChahad&theme=radial" alt="Codeforces Stats" />
+  <a href="https://codeforces.com/profile/MDChahad">
+    <img src="https://img.shields.io/badge/Codeforces-MDChahad-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
+  </a>
 </p>
