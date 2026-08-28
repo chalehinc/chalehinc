@@ -18,10 +18,11 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ---
 
+---
+
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chalehinc&show_icons=true&theme=radial" alt="Chahad's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chalehinc&layout=compact&theme=radial" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chalehinc&theme=dark" alt="GitHub Streak" />
 </p>
 
 ### 🧩 Competitive Programming
