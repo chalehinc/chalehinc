@@ -1,8 +1,8 @@
 # Hi there, I'm MD Chahad Chalehin 👋
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on Competitive Programming
-- 🌱 I’m currently learning Machine Learning, Data Structures & Algorithms
+-  I’m currently working on Competitive Programming
+-  I’m currently learning Machine Learning, Data Structures & Algorithms
 - 💬 Ask me about C++
 - 📫 How to reach me: chalehinc@gmail.com
 
@@ -16,3 +16,10 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chalehinc&show_icons=true&theme=radial" alt="Chahad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chalehinc&layout=compact&theme=radial" alt="Top Languages" />
+</p>
