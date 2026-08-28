@@ -1,4 +1,4 @@
-# Hi there, I'm MD Chahad Chalehin 👋
+# Hi there, I'm MD Chahad Chalehin 
 
 ### 👨‍💻 About Me
 -  I’m currently working on Competitive Programming
